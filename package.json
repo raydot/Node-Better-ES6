@@ -1,0 +1,23 @@
+{
+  "name": "node-better-es6",
+  "version": "1.0.0",
+  "description": "Code snippets from https://scotch.io/tutorials/better-node-with-es6-pt-i",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/Node-Better-ES6.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "Dave Kanter",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/raydot/Node-Better-ES6/issues"
+  },
+  "homepage": "https://github.com/raydot/Node-Better-ES6#readme"
+}
